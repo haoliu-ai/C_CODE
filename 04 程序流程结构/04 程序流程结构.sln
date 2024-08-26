@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04 程序流程结构", "04 程序流程结构\04 程序流程结构.vcxproj", "{494F96FA-4034-48E0-810B-E1981F435D5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494F96FA-4034-48E0-810B-E1981F435D5A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{494F96FA-4034-48E0-810B-E1981F435D5A}.Debug|Win32.Build.0 = Debug|Win32
+		{494F96FA-4034-48E0-810B-E1981F435D5A}.Release|Win32.ActiveCfg = Release|Win32
+		{494F96FA-4034-48E0-810B-E1981F435D5A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
