@@ -1,12 +1,16 @@
-﻿生成启动时间为 2024/8/27 17:24:40。
+﻿生成启动时间为 2024/8/28 23:59:24。
      1>项目“D:\C++\05 数组\05 数组\05 数组.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在创建“Debug\05 数组.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
-         d:\c语言\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "01 一维数组.cpp"
-         01 一维数组.cpp
+         d:\c语言\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "05 二维数组数组名.cpp"
+         05 二维数组数组名.cpp
        Link:
          d:\c语言\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++\05 数组\Debug\05 数组.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\05 数组.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\C++\05 数组\Debug\05 数组.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++\05 数组\Debug\05 数组.lib" /MACHINE:X86 "Debug\01 一维数组.obj"
+         "Debug\02 一维数组数组名.obj"
+         "Debug\03 冒泡排序.obj"
+         "Debug\04 二维数组.obj"
+         "Debug\05 二维数组数组名.obj"
          LINK : 没有找到 D:\C++\05 数组\Debug\05 数组.exe 或上一个增量链接没有生成它；正在执行完全链接
          05 数组.vcxproj -> D:\C++\05 数组\Debug\05 数组.exe
        Manifest:

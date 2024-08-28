@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "练习案例1：五只小猪称体重", "练习案例1：五只小猪称体重\练习案例1：五只小猪称体重.vcxproj", "{EAA3C6D8-6445-4BC4-B205-CACB5009E057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA3C6D8-6445-4BC4-B205-CACB5009E057}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EAA3C6D8-6445-4BC4-B205-CACB5009E057}.Debug|Win32.Build.0 = Debug|Win32
+		{EAA3C6D8-6445-4BC4-B205-CACB5009E057}.Release|Win32.ActiveCfg = Release|Win32
+		{EAA3C6D8-6445-4BC4-B205-CACB5009E057}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
