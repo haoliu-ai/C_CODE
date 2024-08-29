@@ -1,0 +1,12 @@
+//#define  _CRT_SECURE_NO_WARNINGS 1
+//#include<iostream>
+//using namespace std;
+//int add(int num1,int num2)
+//{
+//	int sum = num1+num2;
+//	return sum;
+//}
+//int main(){
+//	system("pause");
+//	return 0;
+//}
