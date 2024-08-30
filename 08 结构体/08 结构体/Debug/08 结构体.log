@@ -1,0 +1,26 @@
+﻿生成启动时间为 2024/8/30 14:06:34。
+     1>项目“D:\C++\08 结构体\08 结构体\08 结构体.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\08 结构体.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         d:\c语言\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "06 结构体中const使用场景.cpp"
+         06 结构体中const使用场景.cpp
+       Link:
+         d:\c语言\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++\08 结构体\Debug\08 结构体.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\08 结构体.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\C++\08 结构体\Debug\08 结构体.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++\08 结构体\Debug\08 结构体.lib" /MACHINE:X86 "Debug\01 结构体定义和使用.obj"
+         "Debug\02 结构体数组.obj"
+         "Debug\03 结构体指针.obj"
+         "Debug\04 结构体嵌套结构体.obj"
+         "Debug\05 结构体做函数参数.obj"
+         "Debug\06 结构体中const使用场景.obj"
+         LINK : 没有找到 D:\C++\08 结构体\Debug\08 结构体.exe 或上一个增量链接没有生成它；正在执行完全链接
+         08 结构体.vcxproj -> D:\C++\08 结构体\Debug\08 结构体.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\C++\08 结构体\Debug\08 结构体.exe;#1" /manifest "Debug\08 结构体.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\08 结构体.unsuccessfulbuild”。
+         正在对“Debug\08 结构体.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\C++\08 结构体\08 结构体\08 结构体.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.56
