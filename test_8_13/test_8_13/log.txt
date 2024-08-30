@@ -1,0 +1,10 @@
+file:d:\cÓïÑÔ\´úÂë\test_8_13\test_8_13\test.c line:12 date:Aug 14 2024 time:16:36:16 i=0
+file:d:\cÓïÑÔ\´úÂë\test_8_13\test_8_13\test.c line:12 date:Aug 14 2024 time:16:36:16 i=1
+file:d:\cÓïÑÔ\´úÂë\test_8_13\test_8_13\test.c line:12 date:Aug 14 2024 time:16:36:16 i=2
+file:d:\cÓïÑÔ\´úÂë\test_8_13\test_8_13\test.c line:12 date:Aug 14 2024 time:16:36:16 i=3
+file:d:\cÓïÑÔ\´úÂë\test_8_13\test_8_13\test.c line:12 date:Aug 14 2024 time:16:36:16 i=4
+file:d:\cÓïÑÔ\´úÂë\test_8_13\test_8_13\test.c line:12 date:Aug 14 2024 time:16:36:16 i=5
+file:d:\cÓïÑÔ\´úÂë\test_8_13\test_8_13\test.c line:12 date:Aug 14 2024 time:16:36:16 i=6
+file:d:\cÓïÑÔ\´úÂë\test_8_13\test_8_13\test.c line:12 date:Aug 14 2024 time:16:36:16 i=7
+file:d:\cÓïÑÔ\´úÂë\test_8_13\test_8_13\test.c line:12 date:Aug 14 2024 time:16:36:16 i=8
+file:d:\cÓïÑÔ\´úÂë\test_8_13\test_8_13\test.c line:12 date:Aug 14 2024 time:16:36:16 i=9
