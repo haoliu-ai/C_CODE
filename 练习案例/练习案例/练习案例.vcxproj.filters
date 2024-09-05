@@ -15,19 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01 封装的意义.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="02 封装案例.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="03 封装的权限控制.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="04 struct和class区别.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="05 成员属性设置为私有.cpp">
+    <ClCompile Include="练习案例1：设计立方体类.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

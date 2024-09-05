@@ -11,8 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{C5EE180E-0F67-4488-A66A-81D3997BF657}</ProjectGuid>
-    <RootNamespace>类和对象</RootNamespace>
+    <ProjectGuid>{A7931BD3-B737-490A-90D0-FF9056EB361B}</ProjectGuid>
+    <RootNamespace>练习案例</RootNamespace>
+    <ProjectName>类和对象练习案例</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -60,11 +61,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01 封装的意义.cpp" />
-    <ClCompile Include="02 封装案例.cpp" />
-    <ClCompile Include="03 封装的权限控制.cpp" />
-    <ClCompile Include="04 struct和class区别.cpp" />
-    <ClCompile Include="05 成员属性设置为私有.cpp" />
+    <ClCompile Include="练习案例1：设计立方体类.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
