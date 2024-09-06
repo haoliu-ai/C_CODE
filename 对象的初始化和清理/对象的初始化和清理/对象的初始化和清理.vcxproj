@@ -11,9 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{A7931BD3-B737-490A-90D0-FF9056EB361B}</ProjectGuid>
-    <RootNamespace>练习案例</RootNamespace>
-    <ProjectName>类和对象练习案例</ProjectName>
+    <ProjectGuid>{C014AD77-3C2E-4165-8550-108FFB79BC51}</ProjectGuid>
+    <RootNamespace>对象的初始化和清理</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -61,14 +60,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="circle.cpp" />
-    <ClCompile Include="point.cpp" />
-    <ClCompile Include="练习案例1：设计立方体类.cpp" />
-    <ClCompile Include="练习案例2： 点和圆的关系.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="circle.h" />
-    <ClInclude Include="point.h" />
+    <ClCompile Include="01 构造函数和析构函数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
