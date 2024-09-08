@@ -1,23 +1,13 @@
-﻿生成启动时间为 2024/9/8 1:05:17。
+﻿生成启动时间为 2024/9/8 23:26:50。
      1>项目“D:\C++\对象的初始化和清理\对象的初始化和清理\对象的初始化和清理.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在创建“Debug\对象的初始化和清理.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
-         d:\c语言\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "03 拷贝构造函数调用时机.cpp"
-         03 拷贝构造函数调用时机.cpp
-       Link:
-         d:\c语言\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++\对象的初始化和清理\Debug\对象的初始化和清理.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\对象的初始化和清理.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\C++\对象的初始化和清理\Debug\对象的初始化和清理.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++\对象的初始化和清理\Debug\对象的初始化和清理.lib" /MACHINE:X86 "Debug\01 构造函数和析构函数.obj"
-         "Debug\02 构造函数的分类及调用.obj"
-         "Debug\03 拷贝构造函数调用时机.obj"
-         LINK : 没有找到 D:\C++\对象的初始化和清理\Debug\对象的初始化和清理.exe 或上一个增量链接没有生成它；正在执行完全链接
-         对象的初始化和清理.vcxproj -> D:\C++\对象的初始化和清理\Debug\对象的初始化和清理.exe
-       Manifest:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\C++\对象的初始化和清理\Debug\对象的初始化和清理.exe;#1" /manifest "Debug\对象的初始化和清理.exe.intermediate.manifest"
-       FinalizeBuildStatus:
-         正在删除文件“Debug\对象的初始化和清理.unsuccessfulbuild”。
-         正在对“Debug\对象的初始化和清理.lastbuildstate”执行 Touch 任务。
-     1>已完成生成项目“D:\C++\对象的初始化和清理\对象的初始化和清理\对象的初始化和清理.vcxproj”(build 个目标)的操作。
+         d:\c语言\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "04 构造函数调用规则.cpp"
+         04 构造函数调用规则.cpp
+     1>d:\c++\对象的初始化和清理\对象的初始化和清理\04 构造函数调用规则.cpp(40): error C2512: “Person”: 没有合适的默认构造函数可用
+     1>已完成生成项目“D:\C++\对象的初始化和清理\对象的初始化和清理\对象的初始化和清理.vcxproj”(build 个目标)的操作 - 失败。
 
-生成成功。
+生成失败。
 
-已用时间 00:00:00.52
+已用时间 00:00:00.20
