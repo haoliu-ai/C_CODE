@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c++对象模型和this指针", "c++对象模型和this指针\c++对象模型和this指针.vcxproj", "{FC881E0C-0956-4D9A-ADAB-FE5C2782DBAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC881E0C-0956-4D9A-ADAB-FE5C2782DBAA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC881E0C-0956-4D9A-ADAB-FE5C2782DBAA}.Debug|Win32.Build.0 = Debug|Win32
+		{FC881E0C-0956-4D9A-ADAB-FE5C2782DBAA}.Release|Win32.ActiveCfg = Release|Win32
+		{FC881E0C-0956-4D9A-ADAB-FE5C2782DBAA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
